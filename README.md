@@ -1,6 +1,10 @@
 <!-- TITLE -->
 # Seletor — Adjacente
 
+```css
+.header + span;
+```
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
