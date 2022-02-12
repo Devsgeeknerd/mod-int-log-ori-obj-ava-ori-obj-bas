@@ -5,6 +5,8 @@
 .header + span;
 ```
 
+* A estilização só é aplicada quando a condição for satisfeita.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
